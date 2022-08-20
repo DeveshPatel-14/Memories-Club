@@ -1,21 +1,13 @@
-    updated: Saturday, 25th June 2022
+    updated: Saturday, 20th August 2022
 
-<div align=center>
-    <a href="https://memories-pritam.netlify.app/">
-        <img width=200 src="assets/icon.png" alt="Euphoria">
-    </a>
-    <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> Cherishing the past with love </p>
-    <a href="https://app.netlify.com/sites/memories-pritam/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/db24b02d-0b1f-4b4a-a07c-fe3b8318abe7/deploy-status" alt="Netlify Status">
-    </a>
-</div>
 
-# [Memories](https://memories-pritam.netlify.app)
 
-## What's new?
+# [Memories](https://memories-club.herokuapp.com)
 
--   Comment Delete Buttons
--   Now Post Owners can regulate comments on their posts
+## Demo Credentials
+
+-   User Email : demo@gmail.com
+-   Password: demopass
 
 ## Table of Contents
 
@@ -34,16 +26,10 @@
 -   In earlier days people used to store their valuable memories in Diaries.
 -   Days have changed, but needs of people still remain the same.
 -   This is a WebApp helps suffice the need for a Digital Diary and help improve the user Experience.
--   The Anime [Kimi no Na wa](https://en.wikipedia.org/wiki/Your_Name) gave me inspiration to improve this project every bit.
+
 
 ---
 
-## Acknowledgement
-
--   Thanks to JS Mastery for this wonderful tutorial.
--   I have added more refined features on top of this project.
-
----
 
 ## Features
 
@@ -72,32 +58,11 @@
 
 ---
 
-## Previews
-
--   Desktop Preview ![Desktop-Preview](assets/desktop-preview.png)
-
--   Mobile Preview  
-    ![Mobile-Preview](assets/mobile-preview.png)
-
----
-
-## Demo
-
-![Customizations](assets/demo.gif)
-
----
-
-## Upcomming
-
--   Comment Deletion feature for comment Authors. Currently making changes in Database postMessages Schema in the Comments array to add new fields for better comment regulation in future.
--   Known Bugs: Same comments from same user posted multiple times gets deleted all at once while deleting single one of them
-
----
 
 ## License
 
 -   see [LICENSE]
 
-**Pritam, 2022**
+**Devesh, 2022**
 
 [license]: https://github.com/warmachine028/memories/blob/main/LICENSE
